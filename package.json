@@ -2,7 +2,7 @@
   "name": "book-lib",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Tilak9737.github.io/My-Library",
+  "homepage": "https://Tilak9737.github.io/I-Write",
   "dependencies": {
     "@tailwindcss/vite": "^4.0.2",
     "cra-template": "1.2.0",
