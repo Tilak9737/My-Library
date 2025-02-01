@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/My-Library/static/css/main.c3d88a99.css",
-    "main.js": "/My-Library/static/js/main.3e7832f8.js",
+    "main.js": "/My-Library/static/js/main.630eea89.js",
+    "static/media/I-THINK-I-MOVED-ON.jpg": "/My-Library/static/media/I-THINK-I-MOVED-ON.e7dfce82c4fa6f109e2b.jpg",
     "index.html": "/My-Library/index.html",
     "main.c3d88a99.css.map": "/My-Library/static/css/main.c3d88a99.css.map",
-    "main.3e7832f8.js.map": "/My-Library/static/js/main.3e7832f8.js.map"
+    "main.630eea89.js.map": "/My-Library/static/js/main.630eea89.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d88a99.css",
-    "static/js/main.3e7832f8.js"
+    "static/js/main.630eea89.js"
   ]
 }
