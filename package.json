@@ -2,6 +2,7 @@
   "name": "book-lib",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Tilak9737.github.io/My-Library",
   "dependencies": {
     "@tailwindcss/vite": "^4.0.2",
     "cra-template": "1.2.0",
@@ -12,6 +13,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -36,6 +39,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "framer-motion": "^12.0.6",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.1",
     "tailwindcss": "^3.4.17"
   }
